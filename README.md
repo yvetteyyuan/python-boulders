@@ -16,7 +16,7 @@ In this project, I designed a text-based adventure game to share safety tips and
 -Controlling for Errors
  
  
-Files include:
+# Files:
 
 -.ipynb notebook
 
