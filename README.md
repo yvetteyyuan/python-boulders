@@ -16,11 +16,10 @@ This game utilizes the Python essentials including:
 
 -Controlling for Errors
  
+This was a course project for Data Science with Python at Hult International Business School.
  
 # Files:
 
 -.ipynb notebook
 -A game map (.pptx format), including the following:
  map of the game, including its intended user flow, locations of conditional statements, locations of loops, and defined global variables 
- 
- This was a course project for Data Science with Python at Hult International Business School.
