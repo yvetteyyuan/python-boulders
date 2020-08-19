@@ -1,7 +1,8 @@
 # python-boulders
-Text Adventure Game Development
+The purpose of this text adventure game is to share safety tips and fundamental techniques for bouldering. 
+Climb away.
 
-In this project, I designed a text-based adventure game to share safety tips and fundamental techniques for climbing. This game utilizes the Python essentials including but not limited to:
+This game utilizes the Python essentials including:
 
 -Strings and String Manipulation
 
@@ -19,13 +20,7 @@ In this project, I designed a text-based adventure game to share safety tips and
 # Files:
 
 -.ipynb notebook
-
 -A game map (.pptx format), including the following:
-
- map of the game, including its intended user flow
+ map of the game, including its intended user flow, locations of conditional statements, locations of loops, and defined global variables 
  
- locations of conditional statements
- 
- locations of loops
- 
- defined global variables (if any)
+ This was a course project for Data Science with Python at Hult International Business School.
